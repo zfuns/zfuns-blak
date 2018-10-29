@@ -21,14 +21,11 @@ menu:
     text: 分类
     url: /categories
   github:
-    url: https://github.com/yscoder
-    target: _blank
-  weibo:
-    url: http://www.weibo.com/ysweb
+    url: https://github.com/
     target: _blank
   link:
     text: 测试
-    url: /custom
+    url: /test
 
 # 你的头像url
 avatar: /img/avatar.jpg
