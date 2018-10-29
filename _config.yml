@@ -9,7 +9,7 @@ author: zfuns
 language: zh-Hans
 timezone:
 
-url: https://站点域名
+url: https://geek.ga
 root: /
 permalink: :title/
 permalink_defaults:
