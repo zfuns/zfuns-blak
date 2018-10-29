@@ -66,6 +66,10 @@ time_format: HH:mm:ss
 per_page: 10
 pagination_dir: page
 
+
+plugins:
+    hexo-generator-feed
+
 # Feed
 feed:
   type: atom
