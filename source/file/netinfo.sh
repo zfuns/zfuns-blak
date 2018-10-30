@@ -1,4 +1,7 @@
-#
+# 一个获取网络相关的脚本
+# by zfuns
+
+# 获取外网ip
 get_ip(){
 	ip=`curl -s ip.cip.cc`
 	echo $ip
