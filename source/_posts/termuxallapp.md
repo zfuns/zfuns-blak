@@ -16,4 +16,4 @@ tags: Termux
 ### Termux换源
 
 复制以下代码   
-`wget http://funs.ml/file/source.sh && bash source.sh && rm -f source.sh`
+`echo "deb http://mirrors.tuna.tsinghua.edu.cn/termux/ stable main" > $PREFIX/etc/apt/sources.list`
