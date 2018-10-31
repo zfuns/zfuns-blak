@@ -40,7 +40,8 @@ favicon: /favicon.ico
 email: zfuns@qq.com
 
 # 设置 Android L Chrome 浏览器状态栏颜色
-color: '#3F51B5'
+# color: '#3F51B5'
+color: '#000000'
 
 # 页面标题
 tags_title: Tags
