@@ -3,7 +3,7 @@ date: 2017-03-02
 categories: Termux
 tags: Termux
 ---
-只支持`aarch64,arm`   
+只支持`aarch64,arm`    
 下载安装脚本:   
 `$ wget http://funs.ml/file/atilo`   
 设置执行权利:   
