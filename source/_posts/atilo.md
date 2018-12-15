@@ -5,6 +5,7 @@ tags: Termux
 ---
 只支持`aarch64,arm`    
 下载安装脚本:   
+`$ pkg in wget`   
 `$ wget http://funs.ml/file/atilo`   
 设置执行权利:   
 `$ chmod +x atilo`   
