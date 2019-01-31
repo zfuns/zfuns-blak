@@ -9,7 +9,7 @@ author: zfuns
 language: zh-Hans
 timezone:
 
-url: https://geek.ga
+url: https://funs.ml
 root: /
 permalink: :title/
 permalink_defaults:
