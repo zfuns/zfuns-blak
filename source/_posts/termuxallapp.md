@@ -3,7 +3,7 @@ date: 2017-03-02
 categories: Termux
 tags: Termux
 ---
-* [Termux.0.65](http://funs.ml/file/Termux.apk)   
+* [Termux.0.66](http://funs.ml/file/Termux.apk)   
 * <div>添加通过拨号输入*#*#8376#*#*启动Termux
 需要开机自启权限～（如果安装不了请卸载其他插件重新安装）</div>   
 * [Termux.widget.0.9](http://funs.ml/file/Termux.widget.0.9.apk)   
