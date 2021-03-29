@@ -75,6 +75,11 @@ archive_generator:
 
 plugins:
     hexo-generator-feed
+    hexo-render-pug
+    hexo-generator-archive
+    hexo-generator-tag
+    hexo-generator-index
+    hexo-generator-category
 
 # Feed
 feed:
