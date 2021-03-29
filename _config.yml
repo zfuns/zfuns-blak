@@ -75,6 +75,7 @@ archive_generator:
 
 plugins:
     hexo-generator-feed
+    core-js
     hexo-render-pug
     hexo-generator-archive
     hexo-generator-tag
