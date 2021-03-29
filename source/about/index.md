@@ -1,0 +1,3 @@
+layout: about
+comments: false
+---
