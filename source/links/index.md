@@ -1,3 +1,3 @@
-layout: iinks
+layout: links
 comments: false
 ---
